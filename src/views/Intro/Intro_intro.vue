@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <v-card>
+            <v-card-title>
+                <ul>
+                    <li>test</li>
+                    <li>test2</li>
+                </ul>
+            </v-card-title>
+        </v-card>
+    </div>
+</template>

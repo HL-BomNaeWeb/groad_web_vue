@@ -1,4 +1,4 @@
-# groad_web_vue
+# groad_web
 
 ## Project setup
 ```
